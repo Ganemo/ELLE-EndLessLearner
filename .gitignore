@@ -44,6 +44,10 @@
 *.VC.db
 *.VC.opendb
 
+# Large Files Not Needed
+*.fbx
+*.FBX
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
